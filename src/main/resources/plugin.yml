@@ -1,0 +1,8 @@
+name: SantaSunV3
+version: '${project.version}'
+main: me.skyscx.sunland.Sunland
+api-version: 1.19
+prefix: SS
+loadbefore: [ SantaSUN HO-HO-HO! ]
+authors: [ Skyscx_ ]
+description: Новогодний ивент!
