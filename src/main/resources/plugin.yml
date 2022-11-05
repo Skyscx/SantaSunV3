@@ -6,3 +6,12 @@ prefix: SS
 loadbefore: [ SantaSUN HO-HO-HO! ]
 authors: [ Skyscx_ ]
 description: Новогодний ивент!
+commands:
+  santa:
+    description: Меню администратора.
+  ssend:
+    description: Отправить блок в мешок.(БЛОК НУЖНО ДЕРЖАТЬ В РУКЕ).
+  scheck:
+    description: Посмотреть мои отправленные вещи.
+  sback:
+    description: Вернуть все отправленные вещи.
